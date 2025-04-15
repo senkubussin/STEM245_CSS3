@@ -43,7 +43,7 @@
                     padding: 10px;
                     height: 175px;
                     border: 0px;
-                    color: #bf5c2a;
+                    color: yellow;
                     background-color: #c2c1c1;
                     border-radius: 8px;
             }
@@ -204,7 +204,7 @@
             #footer {
                 padding: 10px;
                 height: 20px;
-                color: #333;
+                color: yellow;
                 font-size: 12px;
                 background: #c2c1c1;
                 clear: both;
